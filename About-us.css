@@ -1,0 +1,56 @@
+.about-us-section-bg-container{
+    background-image: url("https://media-hosting.imagekit.io/7432322a075e4bc9/1624622214_asian-paints-article-creative_without-logo_1600x900-1.jpg?Expires=1841822385&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=c2dnmKw2IYEPOQ2g~qWnmBHSZHlTzIO8MscjW7LIhrUAzkqNZ~tG3rPBnYWS5Y0SJCLf08z3M7VuXbeZzMeh6uzzl5MlBpQknWLPPBkeTnwno6kUv7y30Q9FNdoqPkH1JZkp9foSvT8tJe-EqSrwd3o9gZ97Z-OJ10jTZzJRAFmI~y09xZsW5rLx5grYkcQiGrTuHuXHd~0hCKZAdYJJMqj56gCp5zYK5Dlke8cj7Vrcuu83Wj~RlHg40b2M1EAsR3Q4CLhCEYRzy6JEz5Y8slGU6oGqmm07kh~wf34jd~qBXfibOMuicdlfa2Yw3r-0bp0ZPGPAmjiZ6oO--kz2CA__");
+    background-size: cover;
+    height: 100vh;
+    border-radius: 10px;
+}
+
+.about-us-bg-container{
+    background-color: rgb(215, 255, 255);
+}
+
+.our-vision-heading{
+    font-size: 28px;
+    padding-left: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+}
+
+.core-values-bg-container{
+    background-color: rgb(215, 255, 255);
+}
+
+.core-values-para{
+    font-size: 18px;
+    color: orangered;
+    font-weight: 600;
+}
+
+.core-values-span{
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(32, 38, 62);    
+}
+
+.core-values-card-bg-container{
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+    border-style: solid;
+    border: 1px;
+    border-color: lightgrey;
+    height: 380px;
+}
+
+.core-values-card-heading{
+    background-color: brown;
+    color: white;
+    text-decoration: underline;
+    padding-top: 12px;
+    padding-left: 30px;
+    width: 100%;
+    padding-bottom: 12px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 28px;
+}
